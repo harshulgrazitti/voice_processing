@@ -1,0 +1,9 @@
+numba
+numpy
+torch
+tqdm
+more-itertools
+tiktoken==0.3.3
+transformers>=4.19.0
+iso639
+yt_dlp
